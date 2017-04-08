@@ -1,2 +1,4 @@
 wp admin/admin
-bd root/root
+
+
+http://dev-alexpodkuiko.pantheonsite.io/

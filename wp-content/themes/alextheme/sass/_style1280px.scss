@@ -1,0 +1,361 @@
+@media screen and (min-width: 1280px) {
+  .navbar-default {
+    border: none;
+    background: #2c3e50;
+  }
+  .title-banner{
+    background: #2c3e50;
+  }
+  .logo{
+    color: white;
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 700;
+  }
+  .y{
+    margin-left: -7px;
+    color: #ff4848;
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 700;
+  }
+  .navbar-default .navbar-nav li a {
+    margin: 27px 0 0 0;
+    color: white;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+  }
+  li.active a{
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    color:#ff4848 ;
+  }
+  .active{
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    color:#ff4848 ;
+  }
+  .whyus{
+    padding: 100px 0;
+    background: #ff4848;
+  }
+  .whyustitle{
+    font-family: Roboto;
+    font-size: 60px;
+    font-weight: 700;
+    color: white;
+  }
+  .prof{
+    margin: 0;
+    color: white;
+    font-family: Roboto;
+    font-size: 48px;
+    font-weight: 400;
+  }
+  ul{
+    li{
+      list-style-type: none;
+    }
+  }
+  ul.ourplus{
+    margin-bottom: 40px;
+    margin-left: 0;
+    padding-left: 0;
+    li {
+      list-style-type: none;
+      color: white;
+      font-family: Roboto;
+      font-size: 30px;
+      font-weight: 400;
+      display: inline;
+      p{
+        display: inline;
+      }
+    }
+  }
+  .livesup{
+    font-size: 24px;
+    font-weight: 400;
+  }
+  .proftext{
+    color: white;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 300;
+  }
+  .welcome{
+    padding-top: 57px;
+    font-size: 36px;
+    color: #004966;
+    font-family: Roboto;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+  .welcometext{
+    padding-top: 52px;
+    font-family: Roboto;
+    font-size: 18px;
+    line-height: 24px;
+    color: #004966;
+    font-weight: 300;
+  }
+  .important{
+    color: #ff4848;
+    font-weight: 700;
+  }
+  .offering{
+    padding: 100px 0;
+    background: #004966;
+  }
+  .offeringtitle{
+    padding-bottom: 30px;
+    text-align: center;
+    color: white;
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 300;
+    line-height: 24px;
+  }
+  .offeringtext{
+    text-align: center;
+    color: white;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+  }
+  .offeringpost{
+    text-align: center;
+    color: white;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 24px;
+  }
+  .offeringposttext{
+    padding-top: 15px;
+    text-align: center;
+    color: white;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+  }
+  .latestwork{
+    padding-bottom: 36px;
+    text-align: center;
+    color: black;
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 300;
+    line-height: 24px;
+  }
+  .latestworktext{
+    text-align: center;
+    color: black;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+  }
+  .works{
+    padding: 100px 0;
+  }
+  .contact{
+    padding: 100px 0;
+  }
+  .addresstitle{
+    color: white;
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 300;
+    line-height: 24px;
+  }
+  .addresstext{
+    color: white;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 24px;
+  }
+  .phone{
+    color: white;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 24px;
+  }
+  i.fa fa-phone{
+    display: inline-block;
+    color: white;
+    font-size: 2em;
+  }
+  .footerlogo{
+    background: #17212a;
+  }
+  .footercopy{
+    background: #ff4848;;
+  }
+  .center{
+    text-align: center;
+    color: white;
+  }
+  .section-title{
+    padding: 88px 0;
+    color: white;
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 24px;
+  }
+  .blogg{
+    padding-top: 68px;
+  }
+  a.bloggtitle:active , a.bloggtitle:focus, a.bloggtitle:visited{
+    color: #ff4848;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 16px;
+    text-decoration: none;
+  }
+  .bloggtitle{
+    color: #ff4848;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 16px;
+  }
+  .bloggtext{
+    padding-bottom: 16px;
+    color: black;
+    font-family: Roboto;
+    font-size: 9px;
+    font-weight: 400;
+    line-height: 16px;
+    border: 1px solid gray;
+  }
+  .bloggtime{
+    border-top: 1px solid gray;
+    text-align: center;
+    color: #6d6464;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+  }
+  #search-2{
+  background: #004966;
+  }
+  #search-2 form input[type="search"]{
+    margin: 0 0 50px 50px;
+    width: 185px;
+    background: #004966;
+  }
+  #search-2 form input[type="submit"]{
+    display: none;
+  }
+  #categories-2{
+    background: #004966;
+  }
+  #categories-2 ul li a {
+    display: block;
+    padding-bottom: 30px;
+    color: white;
+    font-family: "Century Gothic";
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 21px;
+    text-transform: uppercase;
+  }
+  .widget-title{
+    padding: 50px;
+    color: white;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+  #mc4wp_form_widget-2 form input[type="email"]{
+    margin-left: 50px;
+    background: #004966;
+    width: 190px;
+  }
+  #mc4wp_form_widget-2 form input[type="submit"]{
+    margin-left: 50px;
+    background: #ff4848;
+    color: white;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+  }
+  #mc4wp_form_widget-2{
+  background: #004966;
+  }
+  div.mc4wp-form-fields p{
+    padding: 0 35px;
+    color: white;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 300;
+  }
+  form.wpcf7-form{
+    input[type="text"], input[type="email"] {
+      width: 554px;
+      margin-top: 26px;
+    }
+    textarea{
+      margin-top: 26px;
+    }
+    input[type="submit"]{
+      margin-top: 50px;
+      background-color: #ff4848;
+      border: none;
+      padding: 20px 60px;
+      color: white;
+      font-family: Roboto;
+      font-size: 24px;
+      font-weight: 700;
+      line-height: 24px;
+      text-transform: uppercase;
+    }
+  }
+  .singleblogtitle{
+    color: #d35400;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 700;
+  }
+  .singletext{
+    color: black;
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 15px;
+  }
+  .float{
+    margin-right: 15px;
+    margin-bottom: 10px;
+    float: left;
+  }
+  .singlep{
+    color: black;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: italic;
+    line-height: 16px;
+  }
+  .singleh{
+    color: #f9690e;
+    font-family: "Open Sans";
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 16px;
+  }
+}
